@@ -6,6 +6,18 @@
 - [uniout]
 - [Line API]
 
+# Author
+ - [踢低吸](http://tdcweb.xyz)
 
 [Line API]: <http://carpedm20.github.io/line/index.html>
 [uniout]: <https://github.com/moskytw/uniout>
+
+
+```sh
+______      _____        ______    
+/\__  _\    /\  __-.     /\  ___\   
+\/_/\ \/    \ \ \/\ \    \ \ \____  
+  \ \_\     \ \____-     \ \_____\
+   \/_/      \/____/      \/_____/
+
+   ```
