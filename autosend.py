@@ -9,7 +9,7 @@ parser = SafeConfigParser()
 parser.read('apitoken.txt')
 line_login = parser.get('apitoken', 'line_login')
 line_passwd = parser.get('apitoken', 'line_passwd')
-random_num = random.randint(0,4)
+random_num = random.randint(0,3)
 head = parser.get('word', str(random_num))
 
 #line登入
