@@ -1,0 +1,8 @@
+[apitoken]
+line_login = 踢低吸
+line_passwd = aaaa
+[word]
+0 = xxx洗澡
+1 = xxx耍廢
+2 = 頭♂香♂
+3 = 暫時的、假的頭香.
